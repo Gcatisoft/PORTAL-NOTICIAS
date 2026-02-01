@@ -6,6 +6,7 @@
 - Google Fonts
 - PHP
 - MySQL.
+<img width="1366" height="618" alt="PORTAL-NOTICIAS" src="https://github.com/user-attachments/assets/862b950b-77c0-4992-9a51-4f81c8314c99" />
 
 
 ## Estructura del Proyecto
@@ -91,5 +92,6 @@ El proyecto incluye las siguientes características destacadas:
 - Se implementó un sistema de inicio de sesión basado en roles, redirigiendo a los administradores a una página de administración de usuarios y a los autores a la página de "mis publicaciones", donde se muestran sus propias noticias. 
 - Además, se añadieron filtros por categoría y autor en diferentes páginas y se incorporaron tablas interactivas para la gestión de noticias y usuarios. 
 - Se utilizó tecnología Ajax para verificar la disponibilidad de nombres de usuario en tiempo real al crear nuevos usuarios.
+
 
 
