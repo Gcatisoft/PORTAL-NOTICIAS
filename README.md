@@ -92,3 +92,4 @@ El proyecto incluye las siguientes características destacadas:
 - Además, se añadieron filtros por categoría y autor en diferentes páginas y se incorporaron tablas interactivas para la gestión de noticias y usuarios. 
 - Se utilizó tecnología Ajax para verificar la disponibilidad de nombres de usuario en tiempo real al crear nuevos usuarios.
 
+
